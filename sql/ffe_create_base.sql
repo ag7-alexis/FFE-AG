@@ -2,7 +2,7 @@
 --JVA-01 07-10-2019 MODIFICATION
 --
 --creation du proprietaire du schema ffe_ag
-CREATE USER ffe_user LOGIN SUPERUSER PASSWORD 'P@ssw0rdsio';
+CREATE USER ffe_user LOGIN SUPERUSER PASSWORD '***';
 --creation base
 CREATE DATABASE ffe_agt OWNER ffe_user;
 --connexion a la base 
