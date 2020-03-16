@@ -20,7 +20,7 @@ public class AccesData {
 
     private final String url = "jdbc:postgresql://localhost/ffe_agt";
     private final String user = "ffe_user";
-    private final String password = "P@ssw0rdsio";
+    private final String password = "***";
 
     /**
      * Methode : connect
